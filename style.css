@@ -1,4 +1,4 @@
-body {
+ body {
     background-image: url('sua-imagem-de-fundo.jpg'); /* Adicione sua imagem de fundo */
     background-size: cover;
     color: white;
@@ -26,4 +26,5 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
-}
+} 
+
